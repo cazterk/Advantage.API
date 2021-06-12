@@ -12,3 +12,17 @@ C:\Users\Cazterk\Documents\Dev.env\Advantage.API\obj\Debug\netcoreapp2.2\Advanta
 C:\Users\Cazterk\Documents\Dev.env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorTargetAssemblyInfo.cache
 C:\Users\Cazterk\Documents\Dev.env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.dll
 C:\Users\Cazterk\Documents\Dev.env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.pdb
+C:\Users\cazterk\Documents\dev-env\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.deps.json
+C:\Users\cazterk\Documents\dev-env\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.runtimeconfig.json
+C:\Users\cazterk\Documents\dev-env\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.runtimeconfig.dev.json
+C:\Users\cazterk\Documents\dev-env\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.dll
+C:\Users\cazterk\Documents\dev-env\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.pdb
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.csprojAssemblyReference.cache
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.csproj.CoreCompileInputs.cache
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorAssemblyInfo.cache
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorAssemblyInfo.cs
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.AssemblyInfoInputs.cache
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.AssemblyInfo.cs
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorTargetAssemblyInfo.cache
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.dll
+C:\Users\cazterk\Documents\dev-env\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.pdb

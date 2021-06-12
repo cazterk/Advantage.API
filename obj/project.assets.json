@@ -12164,30 +12164,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cazterk\\.nuget\\packages\\": {},
+    "C:\\Users\\cazterk\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cazterk\\Documents\\Dev.env\\Advantage.API\\Advantage.API.csproj",
+      "projectUniqueName": "c:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\Advantage.API.csproj",
       "projectName": "Advantage.API",
-      "projectPath": "C:\\Users\\Cazterk\\Documents\\Dev.env\\Advantage.API\\Advantage.API.csproj",
-      "packagesPath": "C:\\Users\\Cazterk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cazterk\\Documents\\Dev.env\\Advantage.API\\obj\\",
+      "projectPath": "c:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\Advantage.API.csproj",
+      "packagesPath": "C:\\Users\\cazterk\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Cazterk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\cazterk\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

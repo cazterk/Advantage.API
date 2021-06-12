@@ -32,7 +32,7 @@ namespace Advantage.API
             {
                 MakeUniqueCustomerName(names);
             }
-            return "prefix + suffix";
+            return bizName;
         }
 
         internal static string MakeCustomerEmail(string customerName)

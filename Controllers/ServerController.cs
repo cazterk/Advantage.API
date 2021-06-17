@@ -35,7 +35,26 @@ namespace Advantage.API.Controllers
         [HttpPut("{id}")]
         public IActionResult Message(int id, [FromBody] ServerMessage msg)
         {
+            var server = _ctx.Servers.Find(id);
 
+            if (server == null)
+            {
+                return NotFound();
+            }
+
+            if (msg.Payload == "activate")
+            {
+                server.IsOnline = true;
+
+            }
+
+            if (msg.Payload == "deactivate")
+            {
+                server.IsOnline = false;
+
+            }
+            _ctx.SaveChanges();
+            return new NoContentResult();
         }
     }
 

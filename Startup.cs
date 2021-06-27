@@ -31,8 +31,12 @@ namespace Advantage.API
             services.AddCors(opt =>
             {
                 opt.AddPolicy("CorsPolicy",
-                c => c.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()
-                );
+                c => c.AllowAnyOrigin()
+                 .SetIsOriginAllowed(origin => true)
+                 .AllowAnyHeader()
+                 .AllowAnyMethod()
+                 .AllowCredentials()
+                    );
             });
 
 
@@ -42,8 +46,8 @@ namespace Advantage.API
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddEntityFrameworkNpgsql()
-            .AddDbContext<APIContext>(
-                opt => opt.UseNpgsql(_connectionString));
+                .AddDbContext<APIContext>(
+                    opt => opt.UseNpgsql(_connectionString));
 
             services.AddTransient<Dataseed>();
         }

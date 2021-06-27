@@ -12157,6 +12157,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
+      "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
@@ -12170,11 +12171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\Advantage.API.csproj",
+      "projectUniqueName": "C:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\Advantage.API.csproj",
       "projectName": "Advantage.API",
-      "projectPath": "c:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\Advantage.API.csproj",
+      "projectPath": "C:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\Advantage.API.csproj",
       "packagesPath": "C:\\Users\\cazterk\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\obj\\",
+      "outputPath": "C:\\Users\\cazterk\\Documents\\dev-env\\Advantage.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12207,6 +12208,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Cors": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
